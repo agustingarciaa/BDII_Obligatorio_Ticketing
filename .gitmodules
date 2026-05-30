@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/agustingarciaa/BDII_Obligatorio_Ticketing_Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/agustingarciaa/BDII_Obligatorio_Ticketing_Frontend.git
